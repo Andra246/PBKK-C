@@ -16,6 +16,8 @@ Program memiliki beberapa pilihan menu:
 
 5. Keluar — Mengakhiri program.
 
+<img width="239" height="142" alt="image" src="https://github.com/user-attachments/assets/ab226b63-91aa-4f68-afb6-b5ac049a0b26" />
+
 ## Data Mahasiswa
 
 Setiap mahasiswa memiliki empat data utama:
